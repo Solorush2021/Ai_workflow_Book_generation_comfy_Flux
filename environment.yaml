@@ -1,0 +1,13 @@
+name: aiflipbook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - torch==2.0.1  # PyTorch for model inference
+    - transformers==4.30.0  # For Llama model
+    - pdfkit==1.0.0  # PDF generation
+    - three==0.1.0  # Three.js Python wrapper (mock dependency)
+    - gradio==3.35.2  # Web demo interface
