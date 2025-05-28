@@ -130,7 +130,7 @@ renderer.compile(image, story, output="duck_adventure.html")</pre>
 
  <h2>🙌 Acknowledgments</h2>
     <ul>
-        <li>Built for Nifty Books’ AI-Expert Intern role, deadline May 29, 2025.</li>
+        <li>Built with passion</li>
         <li>Inspired by Cocomelon’s engaging kids’ content.</li>
         <li>Thanks to Flux.1, Llama, and Three.js communities.</li>
     </ul>
