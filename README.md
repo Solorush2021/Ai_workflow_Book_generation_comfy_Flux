@@ -1,6 +1,6 @@
 <div class="center">
     <a href="https://github.com/Solorush2021/AIFlipbook"><img src="assets/badge-github.png" alt="GitHub Repository"></a>
-    <a [href="https://your-actual-demo-link.com](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)"><img src="assets/badge-demo.png" alt="Live Demo"></a>
+    <a https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html"><img src="assets/badge-demo.png" alt="Live Demo"></a>
     <a href="https://www.linkedin.com/in/vipul-kumar-4388801a7/"><img src="assets/badge-linkedin.png" alt="LinkedIn Profile"></a>
 </div>
 <!DOCTYPE html>
@@ -19,7 +19,7 @@
 
  <p align="center">
         <a href="https://github.com/Solorush2021/AIFlipbook"><img src="assets/badge-github.png" alt="GitHub Repository"></a>
-        <a href="https://your-actual-demo-link.com"><img src="assets/badge-demo.png" alt="Live Demo"></a>
+        <a href="[[https://your-actual-demo-link.com](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)"><img src="assets/badge-demo.png" alt="Live Demo"></a>
         <a href="https://www.linkedin.com/in/vipul-kumar-4388801a7/"><img src="assets/badge-linkedin.png" alt="LinkedIn Profile"></a>
     </p>
 
@@ -29,7 +29,7 @@
 
    <p><strong>A</strong>I <strong>F</strong>LIPBOOK is a generative AI project that crafts magical, interactive storytelling experiences for kids. Powered by <strong>Flux.1</strong> for vibrant image synthesis and a <strong>fine-tuned Llama</strong> model for kid-friendly stories, it converts static PDFs into dynamic flipbooks using <strong>Three.js</strong>. Featuring whimsical elements like spinning hats and waddling ducks, it’s tailored for <strong>Nifty Books</strong>’ mission to revolutionize children’s reading. With 95% engagement accuracy and AWS scalability, this project is ready to bring stories to life.</p>
 
-   <p align="center"><em>Check out the <a href="https://your-actual-demo-link.com">Live Demo</a> to see Uncle Roggers in action!</em></p>
+   <p align="center"><em>Check out the <a href="[https://your-actual-demo-link.com](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)">Live Demo</a> to see Uncle Roggers in action!</em></p>
 
   <h2>🌟 Features</h2>
     <ul>
@@ -41,7 +41,7 @@
 
   <h2>⏩ Updates</h2>
     <p><strong>05/28/2025</strong><br>
-    - Launched live demo for Nifty Books’ internship application (<a href="https://your-actual-demo-link.com">link</a>).<br>
+    - Launched live demo for Nifty Books’ internship application (<a href="[https://your-actual-demo-link.com](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)">link</a>).<br>
     - Added hotspot interactions (e.g., "Tap to see the duck waddle!").</p>
 
   <p><strong>04/01/2025</strong><br>
@@ -70,7 +70,7 @@ wget https://huggingface.co/models/llama-kids -O models/llama.pth</pre>
 
    <h2>💡 Usage</h2>
     <h3>Minimal Example</h3>
-    <p>Here’s an <a href="example.py">example</a> to generate an animated storybook page:</p>
+    <p>Here’s an <a href="[example.py](https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html)">example</a> to generate an animated storybook page:</p>
     <pre>from aiflipbook import FluxPipeline, LlamaStoryGen, FlipbookRenderer
 
 # Load the pipeline
