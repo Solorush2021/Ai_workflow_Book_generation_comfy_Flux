@@ -1,8 +1,5 @@
-<h1>demo:- https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html </h1>
-<div class="center">
-    <a href="https://github.com/Solorush2021/AIFlipbook"><img src="assets/badge-github.png" alt="GitHub Repository"></a>
-    <a https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html"><img src="assets/badge-demo.png" alt="Live Demo"></a>
-    <a href="https://www.linkedin.com/in/vipul-kumar-4388801a7/"><img src="assets/badge-linkedin.png" alt="LinkedIn Profile"></a>
+<h1>Demo:- https://www.flipbookpdf.net/web/site/accf27e29eeb856cbe8262592c00a4be2c7edc4b202505.pdf.html </h1>
+
 </div>
 <!DOCTYPE html>
 <html lang="en">
