@@ -13,3 +13,5 @@ story = llama.generate("A duck’s farm adventure", max_tokens=150)
 
 # Render flipbook
 renderer.compile(image, story, output="duck_adventure.html")
+
+#pipeline for ci/cd will come soon for scalling on higher scale
